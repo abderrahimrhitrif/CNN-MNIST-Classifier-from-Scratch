@@ -26,10 +26,3 @@ This project implements a multi-layer Neural Network classifier for the MNIST ha
 ```bash
 jupyter notebook digit-recongnizer.ipynb
 ```
-
-## CV Bullet Points
-- Implemented a multi-layer neural network classifier from scratch in Python and NumPy for MNIST digit recognition, achieving 95.37% training accuracy and 93.5% dev accuracy.
-- Coded forward propagation, ReLU activations, Softmax normalization, backpropagation, and gradient descent optimization without deep learning frameworks.
-
-## Claims to Avoid
-- Do not claim CNN convolutional layer implementation unless explicitly present in code (this implementation is a fully-connected multilayer perceptron).
